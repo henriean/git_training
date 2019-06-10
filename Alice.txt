@@ -4,3 +4,4 @@ More change for merging divergent branches.
 This line is edited simulating someone else editing the file.
 Some more text.
 Even, some more.
+This line is important new stuff about philosophy.
