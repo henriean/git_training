@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I'm a nice file.
 This line is important new stuff about philosophy.
 What a beautiful day to be an Alice.
+Some time around noon there will be biscuits.
+Maybe we'll get some tea as well.
