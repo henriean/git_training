@@ -1,2 +1,2 @@
-Hi! I'm Bob. I was added by Henriette, first to her working directory, then added to the staging area, then committed to local repo, and eventually pushed to the remote repo! Changes are made.
+Hi! I'm Bob, I've been here for a while now. I was added by Henriette, first to her working directory, then added to the staging area, then committed to local repo, and eventually pushed to the remote repo! Changes are made.
 More text for master. :D 
